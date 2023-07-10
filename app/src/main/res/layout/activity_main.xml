@@ -40,5 +40,6 @@
         android:layout_height="wrap_content"
         android:text="finish"
         android:textAllCaps="false"
+        android:onClick="finishFun"
         />
 </LinearLayout>

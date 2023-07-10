@@ -34,6 +34,7 @@
         android:layout_height="wrap_content"
         android:background="#0ff"
         android:hint="Please input Password"
+        android:inputType="numberPassword"
         android:minHeight="48dp" />
     <Button
         android:layout_width="match_parent"
